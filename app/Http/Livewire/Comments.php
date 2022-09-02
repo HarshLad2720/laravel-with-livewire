@@ -11,7 +11,7 @@ class Comments extends Component
       [
           'body'       => 'Hello Laravel Developer',
           'created_at' => '2 MIN AGO',
-          'creator'    => 'Harsh Lad',
+          'creator'    => 'Jaydeep Prajapati',
       ]
     ];
 
